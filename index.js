@@ -21,4 +21,7 @@ console.log(sentenceB.toLowerCase());
 //LEVEL 3
 const sentenceE = "hello goodness!"
 console.log(sentenceE)
-console.log(sentenceE.toTitleCase());
+
+function toTitleCase(str) {
+
+}
